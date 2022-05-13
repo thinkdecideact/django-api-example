@@ -1,0 +1,11 @@
+redis
+mysqlclient
+requests
+urllib3
+httpie
+lxml
+pytz
+python-dateutil
+django
+django-cors-headers
+simplejson
